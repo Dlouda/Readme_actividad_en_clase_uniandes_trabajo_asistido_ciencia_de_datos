@@ -58,3 +58,5 @@ $$
 x = 2^4 * y
 $$
 
+![Foto 1](exploring-the-realm-of-data-science-and-its-profound-impact-on-modern-industries-and-business-growth-photo.jpg)
+![Gif 1](Rotating_earth_(large).gif)
